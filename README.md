@@ -1,1 +1,1 @@
-# News-Website
+This is a news website where you can check on news for many countries. When the website is loaded you will be asked to enter your country code. Once you enter the code all the news related to that country will be shown to you.
